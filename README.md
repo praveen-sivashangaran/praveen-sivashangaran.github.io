@@ -1,2 +1,2 @@
-**My personal website**\n
+**My personal website**\
 **Currently a work in progress**
