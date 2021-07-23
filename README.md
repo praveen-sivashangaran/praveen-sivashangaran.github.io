@@ -13,3 +13,9 @@
 * The objective of this project is to build a model that is capable of predicting if a potential borrower will pay back their loan. 
 * Model involves a multi-layer neural network which utilizes the sigmoid function for binary classification (loan repaid: yes or no)
 * Classification metrics are used to evaluate the model's performance 
+
+## [Project 3: Loan Default Prediction Model](https://github.com/praveen-sivashangaran/Ad-Click-Predictor)
+
+* Objective: Predict whether or not an internet user will click on an ad based off the features of that user
+* Project starts off with exploratory data analysis and continues to build a logistic regression model using the scikit-learn library
+* An accuracy of 89% was achieved using this model
